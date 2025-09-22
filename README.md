@@ -71,7 +71,7 @@ npm run seed
 npm run dev
 ```
 
-La API estará disponible en `http://localhost:<puerto_asignado>`
+La API estará disponible en `http://localhost:<puerto_asignado>/api/v1`
 
 ## Scripts disponibles
 
