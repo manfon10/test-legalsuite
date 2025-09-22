@@ -31,7 +31,6 @@ export class ErrorHandler {
       });
     }
 
-    // Errores de validación (joi, zod, etc.)
     // if (error instanceof ValidationError) {
     //   logger.warn('Validation error', { ...logContext, error: error.message });
     //   return res.status(400).json({
