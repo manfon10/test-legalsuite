@@ -80,7 +80,6 @@ La API estará disponible en `http://localhost:<puerto_asignado>/api/v1`
 - `npm start` - Ejecutar versión compilada
 - `npm run migrate` - Ejecutar migraciones
 - `npm run seed` - Ejecutar semillas
-- `npm test` - Ejecutar tests
 
 ## Documentación
 
